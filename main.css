@@ -1,4 +1,4 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -404,4 +404,4 @@ span{
     border-radius: 20px;
     transform: scaleX(360deg);
     transition: 2s;
-}
+} */
