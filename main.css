@@ -1,4 +1,4 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -349,4 +349,4 @@ span{
     border-radius: 23px;
     transform: matrix3d(360px);
     transition: 2s;
-}
+} */
